@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 13 14:30:30 IST 2023","Tue Jun 13 14:30:31 IST 2023","918","","test_create_user_post_request","","","","test_get_rqst",""
+"passed","Tue Jun 13 14:30:31 IST 2023","Tue Jun 13 14:30:32 IST 2023","708","","test_create_user_post_request","","","","test_put_rqst",""
+"passed","Tue Jun 13 14:30:28 IST 2023","Tue Jun 13 14:30:29 IST 2023","1053","","test_create_user_post_request","","","","test_post_rqst[tester15-tester15@email.com-male-active]",""
+"passed","Tue Jun 13 14:30:29 IST 2023","Tue Jun 13 14:30:30 IST 2023","1012","","test_create_user_post_request","","","","test_post_rqst[tester16-tester16@email.com-male-active]",""
